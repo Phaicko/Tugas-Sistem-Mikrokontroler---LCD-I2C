@@ -1,4 +1,4 @@
-# Tugas Sistem Mikrokontroler 2
+# Tugas Sistem Mikrokontroler 6
 ## Penjelasan Source Code Tugas
 #include <Wire.h>: Memanggil library Wire yang diperlukan untuk mengatur komunikasi I2C (Inter-Integrated Circuit) pada pin Arduino.
 #include <LiquidCrystal_I2C.h>: Memanggil library khusus untuk mengontrol modul layar LCD yang menggunakan modul I2C.
